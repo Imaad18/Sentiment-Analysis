@@ -1,3 +1,6 @@
+![scrnli_cbHNpDMW4RBbrL](https://github.com/user-attachments/assets/052b44e1-6a01-4e37-a1d5-c74ee3032137)
+
+
 **Sentiment Analysis Tool**:
 
 * A simple web application for analyzing text sentiment built with Streamlit. No external APIs or complex dependencies required.
@@ -10,7 +13,7 @@
 * **Export Data** - Download results as CSV
 * **Sample Data** - Pre-loaded examples to test the tool
 
-**Live Demo**:
+**Live Demo**: https://sentiment-analysis-ubydsxa38vpjnccjp24jst.streamlit.app/
 
 
 # Installation
